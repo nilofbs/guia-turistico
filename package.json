@@ -1,0 +1,14 @@
+{
+  "name": "guia-turistico",
+  "version": "1.0.0",
+  "description": "Guia Turístico do Maranhão",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
